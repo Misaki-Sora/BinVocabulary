@@ -1,0 +1,8 @@
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-build/CMakeFiles/install.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-build/CMakeFiles/list_install_components.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-build/CMakeFiles/rebuild_cache.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-build/CMakeFiles/edit_cache.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-build/CMakeFiles/DBoW2.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-build/CMakeFiles/demo.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-build/CMakeFiles/install/strip.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-build/CMakeFiles/install/local.dir
