@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/DBoW2"
+		},
+		{
+			"file" : "/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/DBoW2.rule"
+		},
+		{
+			"file" : "/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/DBoW2-complete.rule"
+		},
+		{
+			"file" : "/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-install.rule"
+		},
+		{
+			"file" : "/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-mkdir.rule"
+		},
+		{
+			"file" : "/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-download.rule"
+		},
+		{
+			"file" : "/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-update.rule"
+		},
+		{
+			"file" : "/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-patch.rule"
+		},
+		{
+			"file" : "/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-configure.rule"
+		},
+		{
+			"file" : "/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"DBoW2"
+		],
+		"name" : "DBoW2"
+	}
+}

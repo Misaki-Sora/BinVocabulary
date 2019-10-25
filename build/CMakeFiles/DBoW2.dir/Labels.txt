@@ -1,0 +1,13 @@
+# Target labels
+ DBoW2
+# Source files and their labels
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/DBoW2
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/DBoW2.rule
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/DBoW2-complete.rule
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-install.rule
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-mkdir.rule
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-download.rule
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-update.rule
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-patch.rule
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-configure.rule
+/home/matrix/Downloads/IC-138/BinVocabulary/build/dependencies/src/DBoW2-stamp/DBoW2-build.rule

@@ -1,0 +1,11 @@
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/install.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/demo_brief.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/DBoW2_dep.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/install/local.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/DLib_dep.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/VocCreator.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/edit_cache.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/Dependencies.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/rebuild_cache.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/install/strip.dir
+/home/matrix/Downloads/IC-138/BinVocabulary/build/CMakeFiles/list_install_components.dir
