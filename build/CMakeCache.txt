@@ -197,6 +197,9 @@ DOWNLOAD_DBoW2_dependency:BOOL=ON
 //Download DLib dependency
 DOWNLOAD_DLib_dependency:BOOL=ON
 
+//Git command line client
+GIT_EXECUTABLE:FILEPATH=/usr/bin/git
+
 //The directory containing a CMake configuration file for OpenCV.
 OpenCV_DIR:PATH=/opt/ros/kinetic/share/OpenCV-3.3.1-dev
 
@@ -334,4 +337,6 @@ CMAKE_UNAME:INTERNAL=/bin/uname
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //Details about finding OpenCV
 FIND_PACKAGE_MESSAGE_DETAILS_OpenCV:INTERNAL=[/opt/ros/kinetic][v3.3.1()]
+//ADVANCED property for variable: GIT_EXECUTABLE
+GIT_EXECUTABLE-ADVANCED:INTERNAL=1
 
